@@ -50,10 +50,7 @@ The methodology aligns with industry standards including **NIST SP 800-115** and
 
 ## Report
 
-The full penetration testing report can be found here:
+The full penetration testing report can be found :
 
 📄 **penetration-testing-report.pdf**
 
-## Disclaimer
-
-This penetration testing exercise was conducted in a **controlled academic lab environment for educational purposes only**.
